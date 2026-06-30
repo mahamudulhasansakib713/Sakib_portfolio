@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahamudulhasansakib713.github.io/Sakib_portfolio/sitemap.xml
